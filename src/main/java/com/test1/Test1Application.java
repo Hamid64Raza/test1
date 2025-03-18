@@ -10,6 +10,7 @@ public class Test1Application {
 		SpringApplication.run(Test1Application.class, args);
 
 		String s="now learning merage conflect";
+		//welcome to Patna
     int x=199;
     char y='babu';
     boolean isSub=true;
