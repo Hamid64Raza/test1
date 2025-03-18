@@ -16,7 +16,8 @@ public class Test1Application {
     char y='babu';
     boolean isSub=true;
 
-
+//Resolving bug
+//Bug-123-is resolvied
 	}
 
 }
